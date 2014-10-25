@@ -1,0 +1,14 @@
+{
+  "name": "spark-coap-js-client",
+  "version": "0.1.0",
+  "description": "Wrapper around spark objects from the coap protocol server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spark"
+  ],
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT"
+}
